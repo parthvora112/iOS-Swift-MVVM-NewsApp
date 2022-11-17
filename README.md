@@ -1,2 +1,1 @@
-# iOS-Swift-MVVM-NewsApp
-NewsApp sample code for MVVM
+# Swift-NewsApp-iOS-Code-MVVM
